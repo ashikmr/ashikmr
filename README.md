@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ashikmr
+- 👀 I’m interested in web development and blogging.
+- 🌱 I’m currently learning to be a full stack developer.
+- 📫 How to reach me ashishkmr735@gmail.com.
